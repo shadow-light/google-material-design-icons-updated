@@ -1,1 +1,1 @@
-A fork of [google-material-design-icons-updated](https://github.com/cyberalien/google-material-design-icons-updated) that only includes svgs so downloading is quicker. Also fixes issue with npm installing the github repo.
+A fork of [google-material-design-icons-updated](https://github.com/cyberalien/google-material-design-icons-updated) that only includes svgs so downloading is quicker. Also fixes issue with npm installing the github repo. Also adds an `all` dir with symlinks to all svgs so that the icon category does not need to be known to retrieve an icon.
