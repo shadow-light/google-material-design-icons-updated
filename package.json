@@ -1,27 +1,7 @@
 {
-  "name": "material-design-icons-updated",
-  "description": "Material Design icons by Google, updated",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cyberalien/google-material-design-icons-updated"
-  },
-  "keywords": [
-    "icons",
-    "material",
-    "material-design",
-    "google"
-  ],
+  "name": "material-design-icons-updated-svgonly",
+  "version": "1.0",
   "author": "Material Design Authors",
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/cyberalien/google-material-design-icons-updated/issues"
-  },
-  "homepage": "https://github.com/cyberalien/google-material-design-icons-updated",
-  "scripts": {
-    "build": "node build/png.js"
-  },
-  "devDependencies": {
-    "@iconify/tools": "^1.3.3"
-  }
+  "homepage": "https://github.com/shadow-light/google-material-design-icons-updated"
 }
